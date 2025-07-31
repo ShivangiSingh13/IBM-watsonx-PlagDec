@@ -1,4 +1,5 @@
 AI Plagiarism Detection Agent
+
 Overview:
 This AI agent is designed using IBM watsonx and the Granite large language model (LLM) to detect plagiarism in academic and written content. It analyzes text input and intelligently identifies semantic an literal similarities across documents, helping users ensure originality and proper citations.
 
