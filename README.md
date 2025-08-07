@@ -1,5 +1,3 @@
-<img width="1277" height="745" alt="image" src="https://github.com/user-attachments/assets/a0f4d867-0b56-4ada-81ae-7186970be8db" />AI Plagiarism Detection Agent
-
 Overview:
 This AI agent is designed using IBM watsonx and the Granite large language model (LLM) to detect plagiarism in academic and written content. It analyzes text input and intelligently identifies semantic an literal similarities across documents, helping users ensure originality and proper citations.
 
@@ -25,6 +23,8 @@ Educators — For evaluating academic submissions.
 Researchers — To ensure originality before publishing.
 Writers & Content Creators — For blogs, articles, and scripts.
 Institutes & Organizations — To integrate plagiarism checks in internal systems.
+
+<img width="1039" height="990" alt="image" src="https://github.com/user-attachments/assets/173d54e0-e01e-4140-ab6d-676cd3d0ccf3" />
 
 Wow Factors:
 Developed using enterprise-grade IBM AI tools
